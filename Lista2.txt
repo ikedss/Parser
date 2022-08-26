@@ -1,0 +1,6 @@
+5
+a \lor (b \terra z) \gets c \terra \neg g \leftrightarrow (x \terra (\neg b \lor j))
+a\lor(b\terraz)\getsc\terra\negG\leftrightarrow(x\terra(\negb\lorj))
+aaaaaaaa
+T \terra \neg F
+\neg F \lor (T \gets F)

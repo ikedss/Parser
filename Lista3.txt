@@ -1,0 +1,5 @@
+4
+\gets\neg\lor\terra\leftrightarrow
+GetA()
+Frank
+hsasFvseT
